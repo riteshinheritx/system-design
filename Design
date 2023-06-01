@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T13:29:29.971Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="h8Whp7VAxvktfSAL9G8U" version="21.3.6" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-01T14:32:56.873Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SOQS2USLIL_Z2p-xO27Z" version="21.3.6" type="device">
   <diagram name="Page-1" id="3TOmvPbJp_T_rIYA2ADW">
-    <mxGraphModel dx="10306" dy="5569" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6952" dy="3683" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="5QY8YZraTflG6mkbhyEv-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55" target="5QY8YZraTflG6mkbhyEv-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.864;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55" target="5QY8YZraTflG6mkbhyEv-51">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.864;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55" target="5QY8YZraTflG6mkbhyEv-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1661" y="770" as="targetPoint" />
             <Array as="points">
@@ -214,7 +214,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-80" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;Backend verify and make entry in data table and give token to frontend&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-80" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;Backend verify and make entry in data base and give token to frontend&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="707" y="5104" width="671" height="561" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-85" value="&lt;font style=&quot;font-size: 55px;&quot;&gt;post&amp;nbsp; api&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -245,7 +245,7 @@
         <mxCell id="5QY8YZraTflG6mkbhyEv-103" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;before calling &lt;br&gt;api it will check &lt;br&gt;existence of token in &lt;br&gt;local &lt;br&gt;storage&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1295" y="6204" width="660" height="671" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-114" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;backend will check authorization from token and give access according to them. if the user is not authenticate then return a response to FE.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-114" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;backend will check authorization from tokens and give access according to them. if the user is not authorized then return a response to FE.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1386" y="8393" width="849" height="374" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-117" target="5QY8YZraTflG6mkbhyEv-114">
@@ -268,7 +268,7 @@
         <mxCell id="5QY8YZraTflG6mkbhyEv-117" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;backend will check if token is expired&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1251" y="7414" width="550" height="682" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-118" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;will give a response to FE and suggested to&amp;nbsp;&lt;br&gt;redirect customer to login page then login design flow will be followed&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-118" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;will give a response to FE and suggest to&amp;nbsp;&lt;br&gt;redirect the customer to the login page then the login design flow will be followed to get a new token.&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="227" y="6787" width="1123" height="558" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-119" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -278,7 +278,7 @@
           <mxGeometry x="-922" y="8173" width="88" height="77" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-122" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;We can send token in&amp;nbsp;&lt;br&gt;header of API&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-943" y="5995" width="539" height="198" as="geometry" />
+          <mxGeometry x="-794" y="6677" width="539" height="198" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-123" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-923" y="6971" width="22" height="143" as="geometry" />
@@ -291,6 +291,9 @@
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-128" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Token&amp;nbsp; Design Flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-513" y="4837" width="649" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-129" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;when for a particular caccount more than 5 time s api calls wihth wrong passwrod&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1309" y="9306" width="957" height="484" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
