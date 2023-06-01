@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T08:57:09.733Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FhhZC_CbpdP9QoIimd4o" version="21.3.6" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-01T13:29:29.971Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="h8Whp7VAxvktfSAL9G8U" version="21.3.6" type="device">
   <diagram name="Page-1" id="3TOmvPbJp_T_rIYA2ADW">
-    <mxGraphModel dx="8741" dy="4689" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10306" dy="5569" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,8 +33,8 @@
         <mxCell id="SXAabwGACLkKONLcv8ZE-7" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;UI Landing Page&lt;br&gt;&lt;br&gt;with two options&amp;nbsp;&lt;br&gt;SignUp And Login&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1072.33" y="-121" width="528" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="SXAabwGACLkKONLcv8ZE-9" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Sign up&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-425" y="96" width="143" height="55" as="geometry" />
+        <mxCell id="SXAabwGACLkKONLcv8ZE-9" value="&lt;font style=&quot;font-size: 55px;&quot;&gt;Sign up&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-464" y="55" width="209" height="77" as="geometry" />
         </mxCell>
         <mxCell id="UospIll6bYNQ2ZkmngLo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=19;" parent="1" source="SXAabwGACLkKONLcv8ZE-10" target="UospIll6bYNQ2ZkmngLo-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -42,8 +42,8 @@
         <mxCell id="SXAabwGACLkKONLcv8ZE-10" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;U I&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Login&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Form&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Payload :-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;{&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;email-id: &quot;luckyriteshmalviya@gmail.com&quot;,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;password:&amp;nbsp;&quot;1234&quot;}&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1084.4099999999999" y="715" width="556.58" height="341" as="geometry" />
         </mxCell>
-        <mxCell id="SXAabwGACLkKONLcv8ZE-12" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Login&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-924" y="484" width="88" height="44" as="geometry" />
+        <mxCell id="SXAabwGACLkKONLcv8ZE-12" value="&lt;font style=&quot;font-size: 58px;&quot;&gt;Login&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-992" y="462" width="165" height="88" as="geometry" />
         </mxCell>
         <mxCell id="UospIll6bYNQ2ZkmngLo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=19;" parent="1" source="UospIll6bYNQ2ZkmngLo-1" target="UospIll6bYNQ2ZkmngLo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -57,14 +57,14 @@
         <mxCell id="T9-vIlRMH0TSrMjxYW61-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=19;" parent="1" source="UospIll6bYNQ2ZkmngLo-3" target="SXAabwGACLkKONLcv8ZE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UospIll6bYNQ2ZkmngLo-3" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Showing an notification like user is not created and Redirect to SignUp Page&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="UospIll6bYNQ2ZkmngLo-3" value="&lt;font style=&quot;font-size: 54px;&quot;&gt;Showing an notification like user is not created and Redirect to SignUp Page&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="-213" y="1563.5" width="802" height="448" as="geometry" />
         </mxCell>
         <mxCell id="UospIll6bYNQ2ZkmngLo-9" value="&lt;font style=&quot;font-size: 65px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-484" y="1645" width="110" height="88" as="geometry" />
         </mxCell>
         <mxCell id="T9-vIlRMH0TSrMjxYW61-3" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;Yes&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-973" y="2068" width="132" height="77" as="geometry" />
+          <mxGeometry x="-770" y="2079" width="132" height="77" as="geometry" />
         </mxCell>
         <mxCell id="T9-vIlRMH0TSrMjxYW61-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=19;" parent="1" source="T9-vIlRMH0TSrMjxYW61-5" target="T9-vIlRMH0TSrMjxYW61-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -111,82 +111,186 @@
         <mxCell id="T9-vIlRMH0TSrMjxYW61-18" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;If password not matched&lt;br&gt;&lt;br&gt;then give a notification to the user&amp;nbsp;&lt;br&gt;&amp;nbsp;with an option of reset password or forgot password on frontend&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="-1556.33" y="1551" width="517" height="557" as="geometry" />
         </mxCell>
-        <mxCell id="T9-vIlRMH0TSrMjxYW61-22" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;and then give access to the&amp;nbsp; user to his account&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="66" y="2362.5" width="417.5" height="346" as="geometry" />
+        <mxCell id="T9-vIlRMH0TSrMjxYW61-22" value="&lt;font style=&quot;font-size: 59px;&quot;&gt;and then give access to the&amp;nbsp; user to his account&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="66" y="2362.5" width="638" height="343.5" as="geometry" />
         </mxCell>
         <mxCell id="T9-vIlRMH0TSrMjxYW61-26" value="&lt;font style=&quot;font-size: 63px;&quot;&gt;Not - match&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1375" y="2365" width="352" height="88" as="geometry" />
+          <mxGeometry x="-1408" y="2420" width="352" height="88" as="geometry" />
         </mxCell>
         <mxCell id="T9-vIlRMH0TSrMjxYW61-27" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;match&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-370" y="2434" width="187" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1" source="T9-vIlRMH0TSrMjxYW61-46">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=16;" edge="1" parent="1" source="T9-vIlRMH0TSrMjxYW61-46" target="5QY8YZraTflG6mkbhyEv-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="473" y="451" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="473" y="1211" />
+              <mxPoint x="1826" y="3214" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T9-vIlRMH0TSrMjxYW61-46" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;make entry in database&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=13;" parent="1" vertex="1">
+        <mxCell id="T9-vIlRMH0TSrMjxYW61-46" value="&lt;font style=&quot;font-size: 51px;&quot;&gt;make entry in user detail table&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=13;" parent="1" vertex="1">
           <mxGeometry x="1408.5" y="924" width="517" height="573.5" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-572" y="3844.2000000000007" as="sourcePoint" />
-            <mxPoint x="-551" y="3855" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-48" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Return Token in response with 200 code&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1103" width="737" height="66" as="geometry" />
+          <mxGeometry x="589" y="1034" width="737" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=12;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-51" target="SXAabwGACLkKONLcv8ZE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-51" target="5QY8YZraTflG6mkbhyEv-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-51" value="UI&amp;nbsp;&lt;br&gt;Forgot&amp;nbsp; password&lt;br&gt;&lt;br&gt;payload:-&lt;br&gt;{&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&amp;nbsp;email-id: &quot;luckyriteshmalviya@gmail.com&quot;,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;}&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2211" y="290" width="627" height="407" as="geometry" />
-        </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-51" target="5QY8YZraTflG6mkbhyEv-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1870" y="943" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1870" y="770" />
+              <mxPoint x="-1870" y="770" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55" target="5QY8YZraTflG6mkbhyEv-63">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-51" value="&lt;font style=&quot;font-size: 39px;&quot;&gt;UI&amp;nbsp;&lt;br&gt;Forgot&amp;nbsp; password&lt;br&gt;&lt;br&gt;payload:-&lt;br&gt;{&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;email-id: &quot;luckyriteshmalviya@gmail.com&quot;,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;}&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2211" y="290" width="627" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55" target="5QY8YZraTflG6mkbhyEv-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.864;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-55" target="5QY8YZraTflG6mkbhyEv-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1661" y="770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1683" y="1182" />
-              <mxPoint x="-1683" y="860" />
-              <mxPoint x="-1669" y="860" />
+              <mxPoint x="-1669" y="1182" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-55" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Chedck if user exist or not&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2005.5" y="1023" width="271" height="317.5" as="geometry" />
+        <mxCell id="5QY8YZraTflG6mkbhyEv-55" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Chedck if user exist or not&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2005.5" y="1122" width="271" height="317.5" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-59" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;call api on backend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2178" y="869" width="297" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-63" target="5QY8YZraTflG6mkbhyEv-67">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-63" target="5QY8YZraTflG6mkbhyEv-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-63" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Send recovery mail &lt;br&gt;on email Id&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-63" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Send recovery mail &lt;br&gt;on email Id&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-2136.5" y="1551" width="533" height="441.75" as="geometry" />
         </mxCell>
         <mxCell id="5QY8YZraTflG6mkbhyEv-66" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;return response&lt;br&gt;&amp;nbsp;on frontend that &lt;br&gt;user is not exist&lt;br&gt;&amp;nbsp;and suggest&lt;br&gt;&amp;nbsp;to create &lt;br&gt;account first&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1628" y="891" width="253" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-67" target="T9-vIlRMH0TSrMjxYW61-46">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-67" target="T9-vIlRMH0TSrMjxYW61-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5QY8YZraTflG6mkbhyEv-67" value="&lt;span style=&quot;font-size: 47px;&quot;&gt;Ui Form for recovery o fmail&lt;br&gt;&lt;br&gt;payload:-{&lt;br&gt;email: &quot;&quot;,&lt;br&gt;new password: &quot;&quot;&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5QY8YZraTflG6mkbhyEv-67" value="&lt;span style=&quot;font-size: 47px;&quot;&gt;Ui Form for recovery o fmail&lt;br&gt;&lt;br&gt;payload:-{&lt;br&gt;email: &quot;&quot;,&lt;br&gt;new password: &quot;&quot;&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2136.5" y="2882" width="533" height="441.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-75" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;after successfully updating the password it will send respobnseto the frontend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-464" y="3231" width="1804" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-76" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;frontend will save token in localstorage&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1103" width="715" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-78" target="5QY8YZraTflG6mkbhyEv-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="5258" />
+              <mxPoint x="209" y="5258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-78" target="5QY8YZraTflG6mkbhyEv-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-965" y="5775" />
+              <mxPoint x="-965" y="5775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-78" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;SignUp process initiated from frontend side&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1245" y="5104" width="759" height="561" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-486" y="5401" as="targetPoint" />
+            <mxPoint x="706.9999999999982" y="5401" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-426" y="5401" />
+              <mxPoint x="-426" y="5401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-80" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;Backend verify and make entry in data table and give token to frontend&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="707" y="5104" width="671" height="561" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-85" value="&lt;font style=&quot;font-size: 55px;&quot;&gt;post&amp;nbsp; api&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-39.059999999999974" y="5159" width="231" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-86" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;frontend will save that token in local storage&lt;br&gt;&amp;nbsp;&lt;br&gt;Token = payload + authorization + expiry time&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-428.99999999999994" y="5445" width="1078" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-90" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;frontend will&lt;br&gt;&amp;nbsp;request access&lt;br&gt;&amp;nbsp;for different panels&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-934.5" y="5731" width="473" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-103" target="5QY8YZraTflG6mkbhyEv-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-976" y="7084" />
+              <mxPoint x="-976" y="7084" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-103" target="5QY8YZraTflG6mkbhyEv-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56" y="6539.4285714285725" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="718" y="6539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-103" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;before calling &lt;br&gt;api it will check &lt;br&gt;existence of token in &lt;br&gt;local &lt;br&gt;storage&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1295" y="6204" width="660" height="671" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-114" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;backend will check authorization from token and give access according to them. if the user is not authenticate then return a response to FE.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1386" y="8393" width="849" height="374" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-117" target="5QY8YZraTflG6mkbhyEv-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-973.75" y="8052" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-974" y="7975" />
+              <mxPoint x="-974" y="7975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=21;" edge="1" parent="1" source="5QY8YZraTflG6mkbhyEv-117" target="5QY8YZraTflG6mkbhyEv-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-504" y="7766" />
+              <mxPoint x="-504" y="7766" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-117" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;backend will check if token is expired&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1251" y="7414" width="550" height="682" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-118" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;will give a response to FE and suggested to&amp;nbsp;&lt;br&gt;redirect customer to login page then login design flow will be followed&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="227" y="6787" width="1123" height="558" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-119" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-563" y="7656" width="110" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-120" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-922" y="8173" width="88" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-122" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;We can send token in&amp;nbsp;&lt;br&gt;header of API&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-943" y="5995" width="539" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-123" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-923" y="6971" width="22" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-124" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;If it existed then&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-948" y="7132" width="385" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-127" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;If it is not existed then&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-523" y="6446" width="528" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="5QY8YZraTflG6mkbhyEv-128" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Token&amp;nbsp; Design Flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-513" y="4837" width="649" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
